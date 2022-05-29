@@ -5,7 +5,7 @@
     },
     "admin": {
         "mail": "amlananshu6a@gmail.com",
-        "profile": "static\\images\\admin\\WIN_20220528_15_16_17_Pro.jpg"
+        "profile": "static\\images\\admin\\WIN_20220528_15_16_19_Pro.jpg"
     },
     "Amlan Anshu Mohanty": {
         "mail": "amlananshu6a@gmail.com",
@@ -46,9 +46,5 @@
     "Dr.Jyotsana": {
         "mail": "amlananshu6a@gmail.com",
         "profile": "static\\images\\Dr.Jyotsana\\WIN_20220528_21_12_33_Pro_3.jpg"
-    },
-    "amlan": {
-        "mail": "amlananshu2003@gmail.com",
-        "profile": "static\\images\\amlan\\WIN_20220528_15_16_12_Pro.jpg"
     }
 }
